@@ -25,10 +25,8 @@ It is ideal for small to medium clinics seeking to digitize and manage booking o
 
 2. **Import the SQL File**:
    - Open your MySQL client (e.g., MySQL Workbench or command line)
-   - Run the provided `clinic_booking_system.sql` script:
-     ```sql
-     SOURCE path/to/clinic_booking_system.sql;
-     ```
+   - Run the provided `clinic_booking_system.sql`    
+    
 
 3. That’s it! The database will be created and populated with sample data for testing.
 
